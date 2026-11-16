@@ -37,3 +37,12 @@
 报名表的签名与日期留空，须作者审阅设计理念、AI说明和原创承诺后据实签署，并按通知双面打印。包内含参赛联系电话；没有包含其他证明证件。上传仓库仅用于文件领取，不等于向比赛主办方投稿。
 
 完整性校验见 `Constitution_Poster_Entry.sha256`。
+
+
+## 原PDF样式保真的1200dpi海报图片
+
+**[点击下载高清PNG图片 Poster_Original_1200dpi.png](https://github.com/18041361615/zsg180413/raw/refs/heads/main/Poster_Original_1200dpi.png)**
+
+尺寸9920×14032像素，RGB无损PNG，1200dpi，约40MB。直接按作者后来上传的PDF渲染，保留该PDF中的微软雅黑/Calibri字体效果、字号、配色、排版与阴影，没有恢复早期宋体版，也没有进行AI重绘。原有位图插画的真实细节仍受源图限制。
+
+图片较大，网页预览可能缩小显示；请下载原始文件用于印刷。校验值见 `Poster_Original_1200dpi.sha256`。
